@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/jquery": "^3.5.14",
+    "jquery": "^3.6.1",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^4.3.0",
+    "jasmine": "^4.5.0"
+  }
+}
